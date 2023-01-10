@@ -1,9 +1,0 @@
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\bin\Debug\Calculater.exe.config
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\bin\Debug\Calculater.exe
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\bin\Debug\Calculater.pdb
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\obj\Debug\Calculater.csprojResolveAssemblyReference.cache
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\obj\Debug\Calculater.MainPage.resources
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\obj\Debug\Calculater.Properties.Resources.resources
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\obj\Debug\Calculater.csproj.GenerateResource.Cache
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\obj\Debug\Calculater.exe
-C:\Users\Voltage\Desktop\Work\C#Codes\Calculater\Calculater\obj\Debug\Calculater.pdb
