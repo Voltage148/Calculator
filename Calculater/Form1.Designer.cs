@@ -272,6 +272,7 @@
             this.Controls.Add(this.Bt1);
             this.Controls.Add(this.Desplay);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "MainPage";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculater";
